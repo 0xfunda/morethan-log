@@ -19,6 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Early Projects",
+    description: "welcome to my Website!",
   },
 
   // CONFIG configration (required)
